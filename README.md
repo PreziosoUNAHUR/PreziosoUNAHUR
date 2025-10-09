@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Franco Prezioso | Desarrollador Backend (Java) & Mobile Junior
 
-<!--
-**PreziosoUNAHUR/PreziosoUNAHUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante avanzado de Ingeniería en Informática en UNAHUR. Me especializo en el desarrollo de APIs robustas utilizando **Java** y **Spring Boot**, y estoy ampliando mis conocimientos en el desarrollo Mobile con **Kotlin** para Android. Busco mi primer desafío profesional en un entorno de alto aprendizaje.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+
+| Gestor de Inventario y Alertas para PyMEs | BackEND(Python), FrontEND(react), base de datos (mySQL) | Enlace Rápido |
+
+---
+
+### 💡 Habilidades Humanas (Soft Skills)
+
+Mi formación incluye el programa **Oracle Next Education (ONE)**, donde desarrollé competencias clave para el trabajo en equipos ágiles y entornos de alto rendimiento, incluyendo:
+
+| Habilidad | Aplicación Clave (Relevancia para el Puesto) |
+| :--- | :--- |
+| **Proactividad y Autogestión** | Foco en el **Desenvolvimiento Personal** (ONE), aplicando metodologías para **organizar mis tiempos** y tareas de forma autónoma (esencial para el trabajo remoto/híbrido). |
+| **Pensamiento Crítico & Adaptación** | Capacidad para tomar decisiones informadas y **adaptarme rápidamente** a nuevas tecnologías y a la metodología de los proyectos de consultoría. |
+| **Agilidad de Negocio** | Entendimiento de los principios ágiles para aportar valor rápido y ajustarme a las prioridades del negocio y del cliente. |
+| **Comunicación Efectiva** | Habilidad para articular problemas técnicos de manera clara, buscando la **colaboración** en la resolución de desafíos. |
+
+---
+
+
+### ⚙️ Habilidades Core
+
+| Backend & DB | Mobile & Frontend | Herramientas |
+| :--- | :--- | :--- |
+| **Java**, **Spring Boot**, SQL, Hibernate | HTML, CSS, JavaScript, Kotlin (Android) | Git/GitHub, Maven/Gradle, Postman |
+
+---
