@@ -1,6 +1,6 @@
 # 👋 Franco Prezioso | Desarrollador Backend (Java) & Mobile Junior
 
-Soy estudiante avanzado de Ingeniería en Informática en UNAHUR. Me especializo en el desarrollo de APIs robustas utilizando **Java** y **Spring Boot**, y estoy ampliando mis conocimientos en el desarrollo Mobile con **Kotlin** para Android. Busco mi primer desafío profesional en un entorno de alto aprendizaje.
+Soy estudiante avanzado de Tecnicatura en programacion en UNAHUR. Estoy todos los dias mejorando mi repertorio de habilidades y aprendiendo todo tipo de lenguajes de programacion tanto backend como frontend y mobile. Busco mi primer desafío profesional en un entorno de alto aprendizaje.
 
 ---
 
@@ -26,8 +26,6 @@ Mi formación incluye el programa **Oracle Next Education (ONE)**, donde desarro
 
 ### ⚙️ Habilidades Core
 
-| Backend & DB | Mobile & Frontend | Herramientas |
-| :--- | :--- | :--- |
 | **Java**, **Spring Boot**, SQL, Hibernate | HTML, CSS, JavaScript, Kotlin (Android) | Git/GitHub, Maven/Gradle, Postman |
 
 ---
