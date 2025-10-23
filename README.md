@@ -12,7 +12,7 @@ Soy estudiante avanzado de Tecnicatura en programacion en UNAHUR. Estoy todos lo
 
 ### 💡 Habilidades Humanas (Soft Skills)
 
-Mi formación incluye el programa **Oracle Next Education (ONE)**, donde desarrollé competencias clave para el trabajo en equipos ágiles y entornos de alto rendimiento, incluyendo:
+Mi formación incluye ademas de la carrera en Tecnicatura en programacion de la UNAHUR, tambien cuento con el programa **Oracle Next Education (ONE)**, donde desarrollé competencias clave para el trabajo en equipos ágiles y entornos de alto rendimiento, incluyendo:
 
 | Habilidad | Aplicación Clave (Relevancia para el Puesto) |
 | :--- | :--- |
