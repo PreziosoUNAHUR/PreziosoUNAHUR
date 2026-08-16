@@ -1,31 +1,35 @@
-# 👋 Franco Prezioso | Desarrollador Backend (Java) & Mobile Junior
+# 👋 Franco Prezioso | Técnico en Programación | Backend Developer
 
-Soy estudiante avanzado de Tecnicatura en programacion en UNAHUR. Estoy todos los dias mejorando mi repertorio de habilidades y aprendiendo todo tipo de lenguajes de programacion tanto backend como frontend y mobile. Busco mi primer desafío profesional en un entorno de alto aprendizaje.
+Soy **Técnico en Programación** egresado de la Universidad Nacional de Hurlingham (UNAHUR). Me considero un desarrollador con mentalidad de *builder*: me apasiona construir soluciones desde cero, experimentar con arquitecturas y entender cómo funcionan las cosas por detrás. 
+
+Tengo experiencia sólida desarrollando backends y APIs, y me motiva integrar nuevas tecnologías e IA para resolver problemas reales. Busco mi primer desafío profesional en un entorno dinámico y de alto aprendizaje.
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-| Gestor de Inventario y Alertas para PyMEs | BackEND(Python), FrontEND(react), base de datos (mySQL) | Enlace Rápido |
+| **Gestor de Laboratorios** | Sistema integral de gestión de inventario y turnos. <br> *Stack:* **Node.js, JavaScript, PostgreSQL, Sequelize, React** | [Ver Repositorio](https://github.com/DesApp-2026c1-Grupo10) |
+
+| **Modding & Scripts RPG** | Desarrollo independiente de mods y sistemas de estadísticas RPG, aplicando POO y lógica interna de videojuegos. <br> *Stack:* **C#** | [Ver Repositorio](https://github.com/PreziosoUNAHUR/TerrariaMod-RPGAgento) |
+
+---
+
+### ⚙️ Habilidades Core (Tech Stack)
+
+- **Backend & Bases de Datos:** Node.js, JavaScript, TypeScript, PostgreSQL, Sequelize, SQL, Java, Spring Boot, Hibernate.
+- **Frontend:** HTML, CSS, React.
+- **Herramientas & Entornos:** Git/GitHub, Postman, Maven/Gradle.
 
 ---
 
 ### 💡 Habilidades Humanas (Soft Skills)
 
-Mi formación incluye ademas de la carrera en Tecnicatura en programacion de la UNAHUR, tambien cuento con el programa **Oracle Next Education (ONE)**, donde desarrollé competencias clave para el trabajo en equipos ágiles y entornos de alto rendimiento, incluyendo:
+Mi formación universitaria se complementa con el programa **Oracle Next Education (ONE)**, donde desarrollé competencias clave para el trabajo en equipos ágiles:
 
-| Habilidad | Aplicación Clave (Relevancia para el Puesto) |
-| :--- | :--- |
-| **Proactividad y Autogestión** | Foco en el **Desenvolvimiento Personal** (ONE), aplicando metodologías para **organizar mis tiempos** y tareas de forma autónoma (esencial para el trabajo remoto/híbrido). |
-| **Pensamiento Crítico & Adaptación** | Capacidad para tomar decisiones informadas y **adaptarme rápidamente** a nuevas tecnologías y a la metodología de los proyectos de consultoría. |
-| **Agilidad de Negocio** | Entendimiento de los principios ágiles para aportar valor rápido y ajustarme a las prioridades del negocio y del cliente. |
-| **Comunicación Efectiva** | Habilidad para articular problemas técnicos de manera clara, buscando la **colaboración** en la resolución de desafíos. |
+- **Proactividad y Autogestión:** Metodologías para organizar tiempos y tareas de forma autónoma (esencial para trabajo remoto).
+- **Pensamiento Crítico y Adaptabilidad:** Facilidad para iterar código, debuggear problemas complejos y adaptarme a nuevas tecnologías.
+- **Agilidad de Negocio:** Entendimiento de los principios ágiles para aportar valor rápido según las prioridades del proyecto.
+- **Comunicación Efectiva:** Capacidad para documentar código, articular problemas técnicos de manera clara y colaborar en equipo.
 
 ---
-
-
-### ⚙️ Habilidades Core
-
-| **Java**, **Spring Boot**, SQL, Hibernate | HTML, CSS, JavaScript, Kotlin (Android) | Git/GitHub, Maven/Gradle, Postman |
-
----
+📫 **Contacto:** [[Mi LinkedIn](https://www.linkedin.com/in/franco-prezioso-a91001258/)] | [Mi Email franco.prezioso@estudiantes.unahur.edu.ar]
