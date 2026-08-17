@@ -8,7 +8,7 @@ Tengo experiencia sólida desarrollando backends y APIs, y me motiva integrar nu
 
 ### 🚀 Proyectos Destacados
 
-| **Gestor de Laboratorios** | Sistema integral de gestión de inventario y turnos. <br> *Stack:* **Node.js, JavaScript, PostgreSQL, Sequelize, React** | [Ver Repositorio](https://github.com/DesApp-2026c1-Grupo10) |
+| **Gestor de Laboratorios** | Sistema integral de gestión de inventario y laboratorios. <br> *Stack:* **Node.js, JavaScript, PostgreSQL, Sequelize, React** | [Ver Repositorio](https://github.com/DesApp-2026c1-Grupo10) |
 
 | **Modding & Scripts RPG** | Desarrollo independiente de mods y sistemas de estadísticas RPG, aplicando POO y lógica interna de videojuegos. <br> *Stack:* **C#** | [Ver Repositorio](https://github.com/PreziosoUNAHUR/TerrariaMod-RPGAgento) |
 
